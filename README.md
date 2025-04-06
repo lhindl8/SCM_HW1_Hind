@@ -1,6 +1,7 @@
 # SCM_HW1_Hind
 
 
+
 ## Best Practices in Software Configuration Management
 
 - Use version control tools like Git to manage changes efficiently.
